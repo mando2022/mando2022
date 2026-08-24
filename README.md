@@ -1,1 +1,1 @@
-Embedded Systems & Firmware Engineer | OpenWrt • Bootloaders • Linux • Networking • Reverse Engineering | Building JMS OS ⚡
+Firmware & Embedded Systems Engineer | OpenWrt • U-Boot • Linux • Networking • Hardware Bring-up | Creator of JMS OS 🚀
